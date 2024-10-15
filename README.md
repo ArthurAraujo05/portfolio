@@ -19,22 +19,3 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido para apresentar minha
 ## 🚀 Como Acessar
 
 Você pode acessar o portfólio através deste link: [Portfólio Arthur Araujo](https://portifolio-arthur-araujo.vercel.app/)
-
-## 📂 Estrutura do Projeto
-
-A estrutura básica do projeto é a seguinte:
-
-```bash
-/
-├── public              # Arquivos estáticos
-├── src                 # Código fonte do projeto
-│   ├── components      # Componentes reutilizáveis
-│   ├── pages           # Páginas do site
-│   ├── assets          # Imagens e ícones
-│   ├── styles          # Estilos globais
-│   └── utils           # Funções utilitárias
-├── .gitignore          # Arquivos ignorados pelo Git
-├── package.json        # Dependências e scripts do projeto
-└── README.md           # Documentação do projeto
-
-
